@@ -1,4 +1,4 @@
-
+#while launching EC2 Instance
 #!/bin/bash
 sudo su
 apt-get update -y
